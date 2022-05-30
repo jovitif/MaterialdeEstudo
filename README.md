@@ -1,3 +1,3 @@
-# Estudos-de-CienciadaComputacao
-Aqui estão os arquivos com todos os meus estudos da faculdade de Ciência da Computação (UFERSA). Espero te ajudar !
-## Ainda estou no 2 periodo do curso e estudo um pouco de desenvolvimento web por conta propria
+# MaterialdeEstudo
+### Objetivo:
+  Vejo que atualmente existe uma grande comunidade tecnologica que ajuda no processo de inovação e melhoramento nas condições que a tecnologia pode impactar na sociedade atual, como no fornecimento de materiais didaticos de valor incalculavél e de facil acesso, encontrando materiais que antigamente eram raros ou de dificil acesso de forma totalmente democratica e muitos até mesmo gratuito. Logo, o meu objetivo é também fazer parte dessa comunidade que ajuda, mostrando todos os meus estudos ao longo da minha graduação em Ciência da Computação (UFERSA) e dos meus estudos que eu realizo de forma autodidata. Espero te ajudar nessa jornada !
